@@ -1,0 +1,9 @@
+[submodule "sample-landing-page"]
+	path = sample-landing-page
+	url = https://github.com/blucin/sample-landing-page.git
+[submodule "three-js-simple-calculator"]
+	path = three-js-simple-calculator
+	url = git@github.com:blucin/three-js-simple-calculator.git
+[submodule "portfolio-website"]
+	path = portfolio-website
+	url = git@github.com:blucin/portfolio-website.git
